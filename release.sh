@@ -1,10 +1,10 @@
 #in venv
-#. ~/venv/bin/activate
+#source ~/venv/bin/activate
 #pip install -r req.txt
 #pip freeze > req.txt
 chmod u+x *.sh *.py
 
-#git config --global --add safe.directory /media/penguinl/PenguinL/PycharmProjects/geometr_calc
+git config --global --add safe.directory /media/penguinl/PenguinL/PycharmProjects/geometr_calc
 #git clone -o geometr_calc https://github.com/PenguinLW/geometr_calc.git
 #git config --global user.email "diana1997525@gmail.com"
 #git config --global user.name "PenguinLW"
